@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "label": "Technical Problem",
+        "value": "technical-problem"
+    },
+    {
+        "id": "2",
+        "label": "Payment Problem",
+        "value": "payment-problem"
+    },
+    {
+        "id": "3",
+        "label": "Feedback",
+        "value": "feedback"
+    },
+    {
+        "id": "4",
+        "label": "New Feature Suggestion",
+        "value": "new-feature-suggestion"
+    }
+]
